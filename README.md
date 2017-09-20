@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Mark Oliver
 
-I like to:
+I like to: learn Javascript, React, and React Native
 
-I'm learning:
+I'm learning: HTML, SVG, CSS, github
 
 ```
 
